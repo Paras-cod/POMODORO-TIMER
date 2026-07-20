@@ -1,130 +1,144 @@
 # 🍅 Pomodoro Timer
 
-A simple and modern **Pomodoro Timer** built to help improve productivity and focus using the Pomodoro Technique.
+A modern and user-friendly **Pomodoro Timer** built with **Python** and **Tkinter**. Designed to help you stay focused, manage your work sessions efficiently, and improve productivity using the **Pomodoro Technique**.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
 
 ## 📖 About
 
-The Pomodoro Technique is a time management method that breaks work into focused intervals (usually **25 minutes**) followed by short breaks. This application helps users stay productive while preventing burnout.
+The **Pomodoro Technique** is a popular time management method that encourages working in focused intervals (typically **25 minutes**) followed by short breaks. This application provides a clean graphical interface built with **Tkinter**, making it easy to stay on track and maintain productivity.
 
 ---
 
 ## ✨ Features
 
-- ⏱️ 25-minute focus timer
-- ☕ Short and long break sessions
-- ▶️ Start, Pause, and Reset controls
-- 🔄 Automatic timer switching
-- 🎨 Clean and responsive UI
-- 📱 Works on modern browsers
+- 🍅 25-minute focus sessions
+- ☕ Short and long break timers
+- ▶️ Start and Reset controls
+- 🔄 Automatic session switching
+- 🖥️ Clean and intuitive Tkinter GUI
+- ⚡ Lightweight and fast
+- 🐍 Built entirely with Python
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+- Python 3.x
+- Tkinter (GUI)
+- Python Standard Library
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 POMODORO-TIMER/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
+│── main.py
 │── README.md
+│── tomato.png        # App icon (if applicable)
 ```
+
+> Replace the filenames above if your project uses different names.
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Installation
 
-### Clone the Repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Paras-cod/POMODORO-TIMER.git
 ```
 
-### Navigate to the Project
+### 2. Navigate to the project
 
 ```bash
 cd POMODORO-TIMER
 ```
 
-### Run
+### 3. Run the application
 
-Simply open the `index.html` file in your preferred web browser.
+```bash
+python main.py
+```
 
-No additional dependencies or installation are required.
+or
+
+```bash
+python3 main.py
+```
 
 ---
 
-## 🎯 How to Use
+## 🎯 How It Works
 
 1. Click **Start** to begin a focus session.
-2. Stay focused until the timer ends.
-3. Take a short break.
-4. Repeat the cycle.
-5. After several focus sessions, take a longer break.
+2. Work until the timer reaches zero.
+3. Take the suggested short break.
+4. Continue the cycle.
+5. After several focus sessions, enjoy a longer break.
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
 > Add a screenshot of your application here.
 
 Example:
 
 ```
-screenshots/home.png
+screenshots/pomodoro.png
 ```
 
 ---
 
-## 🌟 Future Improvements
+## 🔮 Future Enhancements
 
 - 🔔 Sound notifications
-- 📊 Productivity statistics
-- 🌙 Dark mode
-- 💾 Save progress using Local Storage
 - 🎵 Background music
-- 📅 Daily focus tracking
+- 📊 Productivity statistics
+- 💾 Save session history
+- ⚙️ Custom work and break durations
+- 🌙 Dark mode
+- 📅 Daily goal tracking
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributions are always welcome!
 
-1. Fork the repository
-2. Create a feature branch
+1. Fork this repository.
+2. Create your feature branch.
 
 ```bash
 git checkout -b feature-name
 ```
 
-3. Commit your changes
+3. Commit your changes.
 
 ```bash
-git commit -m "Add new feature"
+git commit -m "Add your feature"
 ```
 
-4. Push the branch
+4. Push the branch.
 
 ```bash
 git push origin feature-name
 ```
 
-5. Open a Pull Request
+5. Open a Pull Request.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -132,8 +146,8 @@ This project is licensed under the MIT License.
 
 **Paras Bansal**
 
-GitHub: https://github.com/Paras-cod
+- GitHub: https://github.com/Paras-cod
 
 ---
 
-### ⭐ If you like this project, don't forget to give it a star!
+### ⭐ If you found this project helpful, consider giving it a star!
